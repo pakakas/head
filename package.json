@@ -1,0 +1,10 @@
+{
+  "name": "@pakakas/head",
+  "version": "1.0.0",
+  "description": "Output the first part of files",
+  "main": "head.ts",
+  "bin": {
+    "head": "head.ts"
+  },
+  "license": "ISC"
+}
